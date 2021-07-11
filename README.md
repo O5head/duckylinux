@@ -1,2 +1,1 @@
-# duckylinux
-A powerfull yet simple rubber ducky script to get a bind shell from a linux or mac machine.
+use this script for ethical purposes only. I will not be held responsible for any mess you make. you can edit this script if you want. you have to change the IP address and the port you wanna work on and you can use this script over wan by enabling port forwarding...
